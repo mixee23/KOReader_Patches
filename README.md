@@ -7,4 +7,5 @@ This changes how Highlights shows up in the bookmarks list. Adds the Chapter tit
 ![image](https://github.com/user-attachments/assets/e01aeb4e-03f4-47aa-aa29-5b02593c0d1f)
 ## [Koreader Custom Fonts (Mine)](https://github.com/mixee23/KOReader_Patches/tree/101c5cbe9c633224b3638212449bc45228c1b559/Koreader%20Custom%20Fonts%20(Mine))
 All 3 font files in the folder is the same
+
 Replace original KOReader fonts by pasting the 2 `Notosans` fonts in `koreader/fonts/noto` to change KOReader interface font
